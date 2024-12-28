@@ -17,5 +17,4 @@ We’re here to help you enhance your workflows, streamline business processes, 
 - Real-world projects that tackle complex use cases
 - Insights on system architecture, software engineering principles, and more
 
-### Contact
-[@AISoftwareDev9](https://x.com/AISoftwareDev9)
+
