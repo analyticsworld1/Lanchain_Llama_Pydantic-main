@@ -3,7 +3,7 @@ We’re here to help you enhance your workflows, streamline business processes, 
 
 🔧 What You'll Find Here:
 
-- Step-by-step coding tutorials
+- Step-by-step coding tutorials.
 - Deep dives into AI tools like OpenAI, LangChain, LangGraph and NotebookLM
 - Best practices for scalable full-stack apps
 - Real-world projects that tackle complex use cases
