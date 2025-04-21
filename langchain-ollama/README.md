@@ -1,4 +1,4 @@
-# Langchain with Ollama
+# Langchain with Ollama.
 
 ## Watch the tutorial here
 
