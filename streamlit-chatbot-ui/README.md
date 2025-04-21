@@ -6,7 +6,7 @@
 
 - Open a second terminal and run `python ingest.py`
 
-- Upload a PDF file
+- Upload a PDF file.
 
 - Wait for the ingestion to finish
 
