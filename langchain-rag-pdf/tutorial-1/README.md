@@ -1,6 +1,6 @@
 ## Chat to PDF
 
-### Use your own files
+### Use your own files.
 
 - Check out the tutorial code from [GitHub](https://github.com/aidev9/tuts/tree/main/langchain-rag-pdf/tutorial-1)
 
